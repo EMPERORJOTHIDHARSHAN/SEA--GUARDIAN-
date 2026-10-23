@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix SEA GUARDIAN – Marine Boundary Alert \u0026 Fisherman Safety System",
+  "description": "Intelligent maritime boundary alert, geofencing, Tamil voice alarms, safe return navigation, cyclone weather alerts, and emergency SOS rescue system for fishermen.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
